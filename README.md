@@ -1,4 +1,4 @@
-# 운전 보조 시스템 SVM
+# SVM 시스템 (운전보조시스템)
 ![SVM 시스템](https://user-images.githubusercontent.com/97617731/224349079-90ebf8b7-934b-4694-b366-b4db4ca5ee39.png)
 
 > SVM(Surround View Monitor), 차량 주변 360도를 Top View로 확인하는 운전 보조 시스템
